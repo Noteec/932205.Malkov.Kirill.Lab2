@@ -1,0 +1,16 @@
+body {
+    margin: 20px;
+}
+
+#float-box{
+    float: left;
+    width: 200px;
+    height: 100px;
+    margin: 15px;
+    background-color: aquamarine;
+}
+
+#clear-property-box {
+    clear: both;
+    background-color: bisque;
+}

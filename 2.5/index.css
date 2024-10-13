@@ -1,0 +1,16 @@
+#upper-box {
+    width: 500px;
+    margin: 20px auto;
+    padding: 2pxs;
+    background-color: green;
+    color: white;
+    
+}
+
+#fatblock-box {
+    width: 500px;
+    margin: 15px auto;
+    padding: 55px;
+    background-color: blue;
+    color: white;
+}

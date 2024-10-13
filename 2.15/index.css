@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 15px;
+}
+
+.inline-block {
+    display: inline-block;
+    margin: 20px;
+    width: 200px;
+    height: 100px;
+    background-color: aquamarine;
+    
+}
+
+#noclear {
+    background-color: bisque;
+}

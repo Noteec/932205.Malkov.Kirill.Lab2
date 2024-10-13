@@ -1,0 +1,10 @@
+#content {
+    background-color: aqua;
+    border :1px solid green;
+    height: 250px;
+}
+
+img {
+    float: right;
+    max-height: 100%;
+}

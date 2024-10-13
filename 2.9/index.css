@@ -1,0 +1,12 @@
+#content {
+    width: 600px;
+    margin: 0 auto;
+    color: white;
+    background-color: blue;
+}
+
+img {
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#container {
+    background-color: aqua;
+    border: 1px solid green;
+}
+
+#categories {
+    float: left;
+    background-color: bisque;
+    width: 250px;
+    height: 80px;
+    margin-right: 5px;
+    padding:10px;
+}
+
+#content {
+    display: inline-block;
+    background-color: gray;
+    width: calc(100vw - 25%);
+    min-width: 200px;
+}
